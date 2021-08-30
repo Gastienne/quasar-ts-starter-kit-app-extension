@@ -1,0 +1,8 @@
+{
+  "name": "@quasar/ts-starter-kit-app-extension",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A Quasar starter kit for creating APP Extensions with Typescript",
+  "author": "Gastienne",
+  "license": "MIT"
+}
